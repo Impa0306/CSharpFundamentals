@@ -1,0 +1,13 @@
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\bin\Debug\netcoreapp3.1\MyCSharpApp.exe
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\bin\Debug\netcoreapp3.1\MyCSharpApp.deps.json
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\bin\Debug\netcoreapp3.1\MyCSharpApp.runtimeconfig.json
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\bin\Debug\netcoreapp3.1\MyCSharpApp.runtimeconfig.dev.json
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\bin\Debug\netcoreapp3.1\MyCSharpApp.dll
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\bin\Debug\netcoreapp3.1\MyCSharpApp.pdb
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\obj\Debug\netcoreapp3.1\MyCSharpApp.csproj.AssemblyReference.cache
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\obj\Debug\netcoreapp3.1\MyCSharpApp.AssemblyInfoInputs.cache
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\obj\Debug\netcoreapp3.1\MyCSharpApp.AssemblyInfo.cs
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\obj\Debug\netcoreapp3.1\MyCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\obj\Debug\netcoreapp3.1\MyCSharpApp.dll
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\obj\Debug\netcoreapp3.1\MyCSharpApp.pdb
+C:\Users\impa1\source\repos\MyCSharpApp\MyCSharpApp\obj\Debug\netcoreapp3.1\MyCSharpApp.genruntimeconfig.cache
