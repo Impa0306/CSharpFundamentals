@@ -6,7 +6,6 @@ using System.Text;
 
 namespace MyCSharpApp
 {
-
     public enum ShippingMethod //different type - declare at namespace level
     {
         RegularMail = 1,
@@ -599,6 +598,10 @@ c:\\folder3\\folder4";
             Console.WriteLine("File Name Without Extension : " + Path.GetFileNameWithoutExtension(path1));
             Console.WriteLine("Directory Name : " + Path.GetDirectoryName(path1));
 
+
+            var customer = new Customer(1, "John");
+            Console.WriteLine(customer.Id); //default = 0
+            Console.WriteLine(customer.Name); //default = null
 
 
         }
